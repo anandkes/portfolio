@@ -1,8 +1,8 @@
 # Anand Kesavaraju's AI-Accelerated Systems Portfolio
 
-I'm a biotech strategy and operations leader who used AI pair programming to go from zero modern web development experience to shipping functional, deployed systems in roughly six weeks. This portfolio highlights the platforms, dashboards, automation layers, and AI tooling I designed, directed, and iterated into working products.
+I'm a biotech strategy and operations leader who used AI pair programming to go from zero modern web development experience to rapidly shipping functional, deployed systems. This portfolio highlights the platforms, dashboards, automation layers, and AI tooling I designed, directed, and iterated into working products.
 
-The implementation was AI-assisted. The product direction, architecture choices, evaluation loop, and final integration decisions were mine. That is the through-line here: strong judgment, high learning velocity, and a willingness to get hands-on until the system works.
+The implementation was AI-assisted. The product direction, architecture choices, evaluation loop, and final integration decisions were mine. My personal through-line: strong judgment, high learning velocity, and a willingness to get hands-on until the system works.
 
 ## What this portfolio demonstrates
 
